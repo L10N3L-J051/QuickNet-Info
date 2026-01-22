@@ -17,7 +17,7 @@ A lightweight Bash script to quickly display your Local IP, Public IP, and Defau
    cd quick-network-info
 
 3. **Grant execution permissions:**
-   '''Bash
+   ```Bash
    chmod +x network_info.sh
 
 4. **Run the script:**
