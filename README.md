@@ -11,3 +11,19 @@ A lightweight Bash script to quickly display your Local IP, Public IP, and Defau
 1. **Clone this repository:**
    ```bash
    git clone [https://github.com/your-username/quick-network-info.git](https://github.com/your-username/quick-network-info.git)
+
+2. **Navigate to the directory:**
+   ```Bash
+   cd quick-network-info
+
+3. **Grant execution permissions:**
+   '''Bash
+   chmod +x network_info.sh
+
+4. **Run the script:**
+   ```Bash
+   ./network_info.sh
+   
+## 📝 Prerequisites
+1. curl must be installed (for fetching Public IP).
+2. A Linux-based environment (Ubuntu, Debian, CentOS, etc.).
